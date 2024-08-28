@@ -26,7 +26,7 @@ public class DataAccess
         
         if (data is null)
         {
-            // This will be logged since Warning is higher than Infomation
+            // This will be logged since Error is higher than Infomation
             // Logging an error - no crash but bad results
             Log.Error("The data is empty, nothing saved");
             return;
