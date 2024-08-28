@@ -1,0 +1,49 @@
+2024-08-28 11:27:41.929 -05:00 [INF] Application started
+2024-08-28 11:27:41.994 -05:00 [INF] Calculator Created
+2024-08-28 11:27:41.995 -05:00 [INF] Add method called, parameter x is 1 parameter y is 2
+2024-08-28 11:27:42.002 -05:00 [INF] Result returned: 3
+2024-08-28 11:36:04.569 -05:00 [INF] Application started
+2024-08-28 11:36:04.606 -05:00 [INF] Calculator Created
+2024-08-28 11:36:04.607 -05:00 [INF] Add method called, parameter x is 1 parameter y is 2
+2024-08-28 11:36:04.613 -05:00 [INF] Result returned: 3
+2024-08-28 11:36:04.614 -05:00 [INF] Add method called, parameter x is 2 parameter y is 5
+2024-08-28 11:36:04.615 -05:00 [INF] Result returned: -3
+2024-08-28 11:37:38.818 -05:00 [INF] Application started
+2024-08-28 11:37:38.857 -05:00 [INF] Calculator Created
+2024-08-28 11:37:38.858 -05:00 [INF] Add method called, parameter x is 1 parameter y is 2
+2024-08-28 11:37:38.864 -05:00 [INF] Result returned: 3
+2024-08-28 11:37:38.865 -05:00 [INF] Subtract method called, parameter x is 2 parameter y is 5
+2024-08-28 11:37:38.866 -05:00 [INF] Result returned: -3
+2024-08-28 11:37:42.303 -05:00 [INF] Application terminating successfully
+2024-08-28 11:42:08.709 -05:00 [INF] Application started
+2024-08-28 11:42:08.748 -05:00 [INF] Calculator Created
+2024-08-28 11:42:08.749 -05:00 [INF] Add method called, parameter x is 1 parameter y is 2
+2024-08-28 11:42:08.756 -05:00 [INF] Result returned: 3
+2024-08-28 11:42:08.757 -05:00 [INF] Subtract method called, parameter x is 2 parameter y is 5
+2024-08-28 11:42:08.757 -05:00 [INF] Result returned: -3
+2024-08-28 11:42:08.759 -05:00 [INF] Loading data from data source with the connection : connection1 to data source
+2024-08-28 11:53:46.667 -05:00 [INF] Application started
+2024-08-28 11:53:46.706 -05:00 [INF] Calculator Created
+2024-08-28 11:53:46.707 -05:00 [INF] Add method called, parameter x is 1 parameter y is 2
+2024-08-28 11:53:46.713 -05:00 [INF] Result returned: 3
+2024-08-28 11:53:46.714 -05:00 [INF] Subtract method called, parameter x is 2 parameter y is 5
+2024-08-28 11:53:46.714 -05:00 [INF] Result returned: -3
+2024-08-28 11:53:46.716 -05:00 [INF] Loading data from data source with the connection: connection1 to data source
+2024-08-28 11:53:46.717 -05:00 [INF] Data loaded: [1,2,3]
+2024-08-28 11:53:46.720 -05:00 [INF] Beginning to save data
+2024-08-28 11:53:46.721 -05:00 [INF] Saving data to data source: [100,2,3]
+2024-08-28 11:54:28.305 -05:00 [INF] Beginning to save data
+2024-08-28 11:54:28.306 -05:00 [ERR] The data is empty, nothing saved
+2024-08-28 11:54:41.945 -05:00 [INF] Beginning to save data
+2024-08-28 11:54:41.946 -05:00 [WRN] The data is too short, nothing saved, data set: [1]
+2024-08-28 11:55:05.159 -05:00 [INF] Application terminating successfully
+2024-08-28 16:27:16.670 -05:00 [INF] Application started
+2024-08-28 16:27:16.744 -05:00 [INF] Calculator Created
+2024-08-28 16:27:16.746 -05:00 [INF] Add method called, parameter x is 1 parameter y is 2
+2024-08-28 16:27:16.752 -05:00 [INF] Result returned: 3
+2024-08-28 16:27:16.753 -05:00 [INF] Subtract method called, parameter x is 2 parameter y is 5
+2024-08-28 16:27:16.754 -05:00 [INF] Result returned: -3
+2024-08-28 16:27:16.755 -05:00 [INF] Loading data from data source with the connection: connection1 to data source
+2024-08-28 16:27:16.756 -05:00 [INF] Data loaded: [1,2,3]
+2024-08-28 16:27:16.760 -05:00 [INF] Beginning to save data
+2024-08-28 16:27:16.760 -05:00 [INF] Saving data to data source: [100,2,3]
